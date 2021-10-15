@@ -1,0 +1,48 @@
+# pip --version
+
+# pip install sphinx 
+
+# sphinx-quickstart "projectname"
+
+# cd projectname
+
+# make html 
+
+# go to build index.html (open in browser)
+
+# *** ပြင်ပြီးတိုင်း save - make html - refresh ***
+
+# page တွေခွဲ link 
+
+# main -> index.rst 
+
+# page အခွဲ filename.rst
+
+# index.rst -> filename
+
+# web developer -> end user 
+
+  - html         - googling
+  - css
+  - boostrap
+  - template 
+
+# link
+# image
+# button 
+# video link
+
+- pip
+- pip sphinx
+- git
+- 
+
+
+-> website local 
+
+https://www.youtube.com/watch?v=2j7fD92g-gE
+-> code store - github
+
+-> host
+
+-> global
